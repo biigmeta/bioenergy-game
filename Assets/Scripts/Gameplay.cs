@@ -16,7 +16,7 @@ public class Gameplay : MonoBehaviour
 
     private void Update()
     {
-
+        
     }
 
     public void ContinueGame()
